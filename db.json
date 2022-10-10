@@ -121,7 +121,7 @@
 			"type": "limousine" 
 		}
 	],
-	"cars_100": [
+	"cars_30": [
 		{
 			"name": "car_100",
 			"type": "pick-up" 
@@ -243,7 +243,7 @@
 			"type": "pick-up" 
 		}
 	],
-	"cars_200": [
+	"cars_60": [
 		{
 			"name": "car_200",
 			"type": "SUV" 
